@@ -8,11 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "."
+    "url": "https://github.com/SuperConductor42/jeopardy"
   },
   "keywords": [
     "Jeopardy"
   ],
   "author": "Toa Carney",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.7.11"
+  }
 }
